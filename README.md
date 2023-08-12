@@ -6,4 +6,8 @@ and this line is added in local and pushed to remote
 
 started from scratch
 
+
 writing on same line to make conflict
+
+fixing conflict issues
+
